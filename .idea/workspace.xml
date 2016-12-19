@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e29b128-b57e-4f79-a4e7-2466e9af6c5d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/src/utils.cpp" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/src/utils.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="lda.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="630">
+              <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -243,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="630">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
           <folding />
         </state>
       </provider>
