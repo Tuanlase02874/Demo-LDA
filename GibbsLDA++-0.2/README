@@ -108,7 +108,8 @@
 
   On Unix/Linux/Cygwin/MinGW environments:
 
-  + System requirements:
+  + System requirements:        for line in doc_file:
+            traingfile.write(line.strip()+" ")
 
     - A C/C++ compiler and the STL library. In the  Makefile, we use  g++ as 
     the default compiler command, if the C/C++ compiler on your system has 

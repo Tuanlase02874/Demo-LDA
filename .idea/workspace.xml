@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e29b128-b57e-4f79-a4e7-2466e9af6c5d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clean_word_map.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create_data2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/README" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00100.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00200.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00300.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00400.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00500.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00600.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00700.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00800.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-00900.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/model-01800.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.phi" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.phi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.tassign" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.tassign" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.theta" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.theta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.twords" afterPath="$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.twords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create_data.py" afterPath="$PROJECT_DIR$/create_data.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +64,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/Makefile">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,11 +85,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lda.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lda.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_data2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create_data2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clean_word_map.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clean_word_map.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newdocs.dat.phi" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.phi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newdocs.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stopwords" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reuters/stopwords">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/model.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -50,14 +162,30 @@
       <file leaf-file-name="README" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="1665">
+              <caret line="111" column="46" lean-forward="false" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>afterwards</find>
+      <find>testfile</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,13 +195,18 @@
       <list>
         <option value="$PROJECT_DIR$/GibbsLDA++-0.2/src/utils.cpp" />
         <option value="$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp" />
+        <option value="$PROJECT_DIR$/train_docs.dat" />
+        <option value="$PROJECT_DIR$/GibbsLDA++-0.2/README" />
+        <option value="$PROJECT_DIR$/create_data.py" />
+        <option value="$PROJECT_DIR$/create_data2.py" />
+        <option value="$PROJECT_DIR$/clean_word_map.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="229" />
+    <option name="x" value="144" />
     <option name="y" value="80" />
-    <option name="width" value="1691" />
+    <option name="width" value="1236" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -92,7 +225,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,16 +293,221 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clean_word_map">
+    <configuration default="false" name="create_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create_data2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_data2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="clean_word_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clean_word_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Demo-LDA" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.create_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.create_data2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.clean_word_map" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.clean_word_map" />
+        <item index="1" class="java.lang.String" itemvalue="Python.create_data2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.create_data" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -186,27 +523,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="80" width="1691" height="1000" extended-state="0" />
+    <frame x="144" y="80" width="1236" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34377575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -216,10 +572,66 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/utils.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.phi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reuters/stopwords">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/model.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        <state relative-caret-position="1665">
+          <caret line="111" column="46" lean-forward="false" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -242,9 +654,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/trndocs.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/model.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="46" lean-forward="false" selection-start-line="111" selection-start-column="46" selection-end-line="111" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reuters/stopwords">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat.phi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/models/casestudy/newdocs.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/utils.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_docs.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="122" lean-forward="true" selection-start-line="81" selection-start-column="122" selection-end-line="81" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_docs.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115793">
+          <caret line="2" column="386" lean-forward="false" selection-start-line="2" selection-start-column="386" selection-end-line="2" selection-end-column="386" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GibbsLDA++-0.2/src/lda.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_data2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clean_word_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
